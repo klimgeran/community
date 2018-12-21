@@ -1,4 +1,4 @@
-# NEMTech Code of Conduct v1.0
+# NEMtech Code of Conduct v1.0
 
 TODO: add translated links here
 

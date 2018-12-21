@@ -21,8 +21,7 @@ Typically SIGs will have at least one or two people that act as group chairs hea
 
 SIGs exist primarily for collaboration around specific efforts and most of the effort is focused within the SIG, where sometimes SIGs have to interact with others, such as a client SIG interacting with the doc SIG for required updates/enhancements.
 
-TODO: add SIG charter info
-TODO: add SIG suggested governance overview
+TODO: add more SIG details here
 
 ## Subprojects
 

@@ -22,7 +22,9 @@ The Chairs of the SIG run operations and processes governing the SIG.
 
 The following subprojects are owned by sig-docs:
 
-TODO: add doc sub projects here
+* **[nem2-docs](https://github.com/nemtech/nem2-docs)**
+* **[nemtech.github.io](https://github.com/nemtech/nemtech.github.io)**
+* **[nem2-curricular-framework](https://github.com/nemtech/nem2-curricular-framework)**
 
 ## SIG Goals
 
