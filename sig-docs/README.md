@@ -17,6 +17,7 @@ The Chairs of the SIG run operations and processes governing the SIG.
 ## Contact
 
 * [Slack](https://nem2.slack.com/messages/sig-docs)
+* [Mailing List](https://groups.google.com/forum/#!forum/nemtech-sig-docs)
 
 ## Subprojects
 

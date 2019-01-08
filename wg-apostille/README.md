@@ -12,4 +12,5 @@ TODO: add meeting details once settled
 
 ## Contact
 * [Slack](https://kubernetes.slack.com/messages/wg-apostille)
+* [Mailing List](https://groups.google.com/forum/#!forum/nemtech-wg-apostille)
 
