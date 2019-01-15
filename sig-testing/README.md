@@ -1,4 +1,4 @@
-# Documentation Special Interest Group
+# Testing Special Interest Group
 
 This SIG covers all things testing for the various project components
 

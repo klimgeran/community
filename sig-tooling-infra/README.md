@@ -1,4 +1,4 @@
-# Documentation Special Interest Group
+# Tooling & Infrastructure Special Interest Group
 
 This SIG covers tools, scripts, config, etc related to infrastructure and component management
 

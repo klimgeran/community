@@ -1,4 +1,4 @@
-# Documentation Special Interest Group
+# Clients Special Interest Group
 
 This SIG covers projects related to end user client experience such as wallets, command line tools, or other
 

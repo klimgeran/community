@@ -1,4 +1,4 @@
-# Documentation Special Interest Group
+# Block Explorer Special Interest Group
 
 This SIG covers block explorer, search and related apps and tooling efforts for the project.
 
