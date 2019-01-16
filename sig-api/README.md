@@ -12,7 +12,7 @@ TODO: add meeting details here
 The Chairs of the SIG run operations and processes governing the SIG.
 
 * **[@dgarcia360](https://github.com/dgarcia360)**
-* **[@evias](https://github.com/evias)**
+
 
 ## Contact
 

@@ -1,0 +1,36 @@
+TODO: work in progress, check pt commit
+
+# Overview
+
+This document is a place holder for outlining notes and details gathered by community members that will influence an initial "base" wallet implementation.  Over time there will be multiple implementations from a web/desktop wallet, similar to a simplified nanowallet implementation for v2, as well as various "native" implementations for mobile platforms such as android and iOS.
+
+The project will have a mix of dedicated and community part time resources participating in the effort. There are various partial to full one off efforts already underway in the community, we hope those interested will join in focused effort for the base implementation that other wallets can be built on top of and extended for custom/additive features, different user experience, as well as stripped down library and UI components that can be leveraged in custom applications where the notion of a wallet is more of a embedded approach with just a couple simple views and majority of the application is the end users/orgs custom solution.
+
+## Project & Design Considerations
+
+Some considerations that will need to be taken into account in regards to implementation at the library/sdk level, as well as a base user experience (UX) level.
+
+### Library/SDK
+
+While other SDKs exist currently the main supported SDK by the core project members is the [javascript/typescript SDK](https://github.com/nemtech/nem2-sdk-typescript-javascript).  With this being the case we will start with targeting an initial implementation that leverages this.  With this in mind this effort will consider how best to create simple additive libraries that work with the existing core js/ts SDK and where appropriate worth with the [sig-api group](sig-api/) if certain updates or additions are required or warranted to properly execute on this effort.
+
+### User Interface (UI)
+
+When working on the base wallet implementation it should be considered how to create a simple implementation that provides just the basics of the base protocol and usage, while leaving room for application developers to leverage the UI assets as base starting point for their implementations for "embedded" usage.  This same consideration and approach should exist for any language/platform implementation, but we will start with the base web/desktop wallet implementation while others follow.
+
+For UI/app implementation we are currently considering:
+
+* React
+* Vue
+* Angular
+
+Based on dedicated participants we will be choosing one as the intiial implementation.
+
+### Extensibility & Add-On Features
+
+The current nanowallet implementation is more of a kitchen sink approach including every and all functionality.  This implementation will default to the most simplified form of usage both from UI and feature set.  It will be designed and implemented in such a way that it should be very to relatively straight forward for community and 3rd party developers to add/customize functionality for their specific needs.
+
+
+## Reference Links
+
+TODO:  add collected links here
