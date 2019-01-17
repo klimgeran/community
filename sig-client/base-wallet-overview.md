@@ -74,4 +74,4 @@ TODO: add here
 
 ### Current v2 Community Efforts
 
-* [http://wallet.48gh23s.xyz/](http://wallet.48gh23s.xyz/)
+* [Dev/Testing Wallet](http://wallet.48gh23s.xyz/)
