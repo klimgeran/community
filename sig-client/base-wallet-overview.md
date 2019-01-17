@@ -24,13 +24,54 @@ For UI/app implementation we are currently considering:
 * Vue
 * Angular
 
-Based on dedicated participants we will be choosing one as the intiial implementation.
+Based on the lead participants we will be choosing one as the initial implementation.
 
 ### Extensibility & Add-On Features
 
-The current nanowallet implementation is more of a kitchen sink approach including every and all functionality.  This implementation will default to the most simplified form of usage both from UI and feature set.  It will be designed and implemented in such a way that it should be very to relatively straight forward for community and 3rd party developers to add/customize functionality for their specific needs.
+The current nanowallet implementation is more of a kitchen sink approach including every and all functionality.  This implementation will default to the most simplified form of usage both from UI and feature set.  It will be designed and implemented in such a way that it should be very to relatively straight forward for community and 3rd party developers to add/customize functionality for their specific needs.  Its assumed for now that features/add-ons would be included at build/package time from a lib/dependency perspective, and how that manifests to allowing for runtime style config at the UI/UX level for features and add-ons is tbd but definitely a simple approach will be taken in order to not make the design and implementation too complicated.
+
+
+## Initial High Level Features
+
+Outlining here non-exhaustive basic list of base features to target across the initial release of the implementation.  The APIs will be having minimal to no backwards breaking changes over the next copule releases for most of these features, some features will be coming in subsequent releases and added as available, most notable is the introduction of new transaction fee handling and introduction of the new metadata concept on accounts and assets.
+
+* Send/Receive Transactions
+  * QR Code Support
+* Account Mgmt
+  * Creation/Export
+  * Transaction History
+  * Address Book
+  * Metadata mgmt
+* Asset Mgmt (mosaics)
+  * Create/Read/Update/Search
+  * Metadata Mgmt
+* Namespace Mgmt
+
 
 
 ## Reference Links
 
-TODO:  add collected links here
+### Design/General Ref
+
+* [Trezor Connect API](https://wiki.trezor.io/Trezor_Connect_API)
+* 
+
+### UI/UX
+
+* [https://medium.muz.li/best-wallet-design-inspiration-ever-522158572c16](https://medium.muz.li/best-wallet-design-inspiration-ever-522158572c16)
+* [https://medium.muz.li/designing-a-crypto-wallet-app-concept-72478d216ec6](https://medium.muz.li/designing-a-crypto-wallet-app-concept-72478d216ec6)
+* [https://medium.com/coinmonks/accessible-ux-design-in-crypto-products-review-of-brd-wallet-3e81da021193](https://medium.com/coinmonks/accessible-ux-design-in-crypto-products-review-of-brd-wallet-3e81da021193)
+
+### Wallet References
+
+TODO: add here
+
+### Existing v1 NEM Wallets
+
+* [https://itunes.apple.com/de/app/nem-wallet/id1227112677](https://itunes.apple.com/de/app/nem-wallet/id1227112677)
+* Racoon Wallet: need link
+* Meteor Wallet: need link
+
+### Current v2 Community Efforts
+
+* [http://wallet.48gh23s.xyz/](http://wallet.48gh23s.xyz/)
