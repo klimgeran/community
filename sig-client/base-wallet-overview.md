@@ -53,8 +53,9 @@ Outlining here non-exhaustive basic list of base features to target across the i
 
 ### Design/General Ref
 
+* [NEM Uri Schema Proposal](https://github.com/nemtech/NIP/issues/6)
 * [Trezor Connect API](https://wiki.trezor.io/Trezor_Connect_API)
-* 
+
 
 ### UI/UX
 
