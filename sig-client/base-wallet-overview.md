@@ -70,7 +70,10 @@ TODO: add here
 ### Existing v1 NEM Wallets
 
 * [https://itunes.apple.com/de/app/nem-wallet/id1227112677](https://itunes.apple.com/de/app/nem-wallet/id1227112677)
-* Racoon Wallet: need link
+* Racoon Wallet
+  * [For iOS](https://itunes.apple.com/us/app/raccoonwallet/id1437034062?mt=8)
+  * [For Android](https://play.google.com/store/apps/details?id=wacode.yamada.yuki.nempaymentapp)
+  * [For PWA](https://ryuta46.github.io/raccoonwallet-web-app/#/top?tab=home)
 * Meteor Wallet: need link
 
 ### Current v2 Community Efforts
