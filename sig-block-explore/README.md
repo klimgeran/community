@@ -9,8 +9,9 @@ TODO: add meeting details here
 ## Leadership
 
 ### Chairs
-The Chairs of the SIG run operations and processes governing the SIG.
+No Chair persons currently, temporary managers are:
 
+* **[@dgarcia360](https://github.com/dgarcia360)**
 * **[@kaiyzen](https://github.com/kaiyzen)**
 
 
