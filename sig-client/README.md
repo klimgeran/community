@@ -24,7 +24,8 @@ No Chair persons currently, temporary managers are:
 
 The following subprojects are owned by sig-client:
 
-TODO: add sub projects here
+* **[nem2-cli](https://github.com/nemtech/nem2-cli)**
+* **[nem2-prototyping-tool](https://github.com/nemtech/nem2-prototyping-tool)**
 
 ## SIG Goals
 

@@ -9,9 +9,11 @@ TODO: add meeting details here
 ## Leadership
 
 ### Chairs
-The Chairs of the SIG run operations and processes governing the SIG.
+
+No Chair persons currently, temporary managers are:
 
 * **[@dgarcia360](https://github.com/dgarcia360)**
+* **[@kaiyzen](https://github.com/kaiyzen)**
 
 
 ## Contact
@@ -23,7 +25,7 @@ The Chairs of the SIG run operations and processes governing the SIG.
 
 The following subprojects are owned by sig-docs:
 
-* **[nem2-docs](https://github.com/nemtech/nem2-docs)**
+* **[nem2-scenarios](https://github.com/nemtech/nem2-scenarios)**
 
 ## SIG Goals
 

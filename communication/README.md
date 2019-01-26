@@ -2,7 +2,7 @@
 
 # Special Interest Groups (SIGs)
 
-TOOD: add any specific SIG comms info/links here
+TODO: Add any specific SIG communications info/links here
 
 
 # Social Media
