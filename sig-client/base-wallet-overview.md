@@ -53,7 +53,8 @@ Outlining here non-exhaustive basic list of base features to target across the i
 
 ### Design/General Ref
 
-* [NEM Uri Schema Proposal](https://github.com/nemtech/NIP/issues/6)
+* [NEM Uri Schema Proposal](https://github.com/nemtech/NIP/issues/6) (draft)
+* [NEM QR Schema Proposal](https://github.com/nemtech/NIP/issues/3) (draft) 
 * [Trezor Connect API](https://wiki.trezor.io/Trezor_Connect_API)
 
 
@@ -71,7 +72,7 @@ TODO: add here
 
 * NEM Wallet [App Store](https://itunes.apple.com/de/app/nem-wallet/id1227112677), [source-iOS](https://github.com/NemProject/NEMiOSApp); [Play Store](https://play.google.com/store/apps/details?id=org.nem.nac.mainnet), [source-Android](https://github.com/NemProject/NEMAndroidApp)
 * Racoon Wallet: need link
-* Meteor Wallet: [website](https://www.meteorwallet.io/(), [source-iOS](https://github.com/blockstart/nem-meteor-wallet-ios)
+* Meteor Wallet: [website](https://www.meteorwallet.io/), [source-iOS](https://github.com/blockstart/nem-meteor-wallet-ios)
 * NEMPay Wallet: [source](https://github.com/dgarcia360/NEMPay)
 
 ### Current v2 Community Efforts
