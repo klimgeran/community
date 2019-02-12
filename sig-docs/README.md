@@ -30,6 +30,6 @@ The following subprojects are owned by sig-docs:
 
 ## SIG Goals
 
-* Discuss project documentation needs and issues
-* Coordinate and plan documentation releases in conjunction with project components updating
+* Discuss project documentation needs and issues.
+* Coordinate and plan documentation releases in conjunction with project components updating.
 * Suggest improvements to user onboarding through better documentation and help community members get involved in making docs better.
