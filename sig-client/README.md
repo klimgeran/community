@@ -4,7 +4,8 @@ This SIG covers projects related to end user client experience such as wallets, 
 
 ## Meetings
 
-TODO: add meeting details here
+* First SIG Meeting: Wednesday, 13 February 2019 10:00PM UTC+0. [Convert your timezone](http://www.thetimezoneconverter.com/?t=22:00&tz=UTC+0).
+    * [Meeting agenda and notes](https://docs.google.com/document/d/1NQQj0F8CQaV3kunp9senSnbBrd-qbH261gxwaekAzd8)
 
 ## Leadership
 
