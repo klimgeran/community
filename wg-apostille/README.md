@@ -11,6 +11,6 @@ TODO: add meeting details once settled
 * **[@daoka](https://github.com/daoka)**)
 
 ## Contact
-* [Slack](https://kubernetes.slack.com/messages/wg-apostille)
+* [Slack](https://nem2.slack.com/messages/wg-apostille)
 * [Mailing List](https://groups.google.com/forum/#!forum/nemtech-wg-apostille)
 
