@@ -2,7 +2,7 @@
 
 # NEMtech Community
 
-Welcome to the nemtech community.  This repository aims to provide an overview of how the open source community works, related project efforts, and most importantly how to get started participating.
+Welcome to the NEMtech community.  This repository aims to provide an overview of how the open source community works, related project efforts, and most importantly how to get started participating.
 
 # Community Communication 
 

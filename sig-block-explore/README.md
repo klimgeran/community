@@ -22,7 +22,7 @@ No Chair persons currently, temporary managers are:
 
 ## Subprojects
 
-The following subprojects are owned by sig-block-explore:
+The following subprojects are owned by sig-block-explorer:
 
 TODO: add sub projects here
 

@@ -1,4 +1,3 @@
-
 # Project Governance
 
 This is a living doc that will be updated on an ongoing basis
