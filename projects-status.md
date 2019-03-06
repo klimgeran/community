@@ -23,5 +23,5 @@
 | [nem2-scenarios](https://github.com/nemtech/nem2-scenarios) | Bison | |
 | [test-vectors](https://github.com/nemtech/test-vectors) | N/A | |
 |**SIG-tooling-infra** | | | 
-| [catapult-service-bootstrap](https://github.com/nemtech/catapult-service-bootstrap) | Bison | |
+| [catapult-service-bootstrap](https://github.com/nemtech/catapult-service-bootstrap) | Cow | |
 | [nem2-camel](https://github.com/nemtech/nem2-camel) | N/A | |
