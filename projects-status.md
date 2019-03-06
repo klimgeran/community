@@ -7,8 +7,8 @@
 |**SIG-API** | | |
 | [catapult-rest](https://github.com/nemtech/catapult-server) | Cow | |
 | [catbuffer](https://github.com/nemtech/catbuffer) | Cow | |
-| [nem2-library-js](https://github.com/nemtech/nem2-library-js) | Alpaca | |
-| [nem2-sdk-typescript-javascript](https://github.com/nemtech/nem2-sdk-typescript-javascript) | Alpaca | |
+| [nem2-library-js](https://github.com/nemtech/nem2-library-js) | Cow | |
+| [nem2-sdk-typescript-javascript](https://github.com/nemtech/nem2-sdk-typescript-javascript) | Cow | Not all features are implemented.|
 | [nem2-sdk-java](https://github.com/nemtech/nem2-sdk-java) | Alpaca | |
 | [nem2-sdk-csharp](https://github.com/nemtech/nem2-sdk-csharp) | Alpaca | |
 |**SIG-CLI** | | | 
