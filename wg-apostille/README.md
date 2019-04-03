@@ -4,11 +4,14 @@ This working group is dedicated to the apostille functionality that exists in ne
 
 ## Meetings
 
-TODO: add meeting details once settled
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/1O-WaDxXAQH3xsliAEcUO_-ATl9LfUdwZ1SQRV-0PvkU/edit).
+  * [Meeting recordings](https://www.youtube.com/playlist?list=PLt3qygA9_hjD5FhyH7Z00RKEzpcclpJs-).
+
 
 ## Organizers
 
 * **[@daoka](https://github.com/daoka)**)
+
 
 ## Contact
 * [Slack](https://nem2.slack.com/messages/wg-apostille)

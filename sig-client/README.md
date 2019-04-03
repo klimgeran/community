@@ -1,17 +1,13 @@
 # Clients Special Interest Group
 
-This SIG covers projects related to end user client experience such as wallets, command line tools, or other
+This SIG covers projects related to end user client experience such as wallets, explorers, command line tools, or other
 
 ## Meetings
 
-* First SIG Meeting: Wednesday, 13 February 2019 10:00PM UTC+0. [Convert your timezone](http://www.thetimezoneconverter.com/?t=22:00&tz=UTC+0).
   * [Meeting agenda and notes](https://docs.google.com/document/d/1NQQj0F8CQaV3kunp9senSnbBrd-qbH261gxwaekAzd8)
   * [Meeting Recordings](https://www.youtube.com/watch?v=n3Ym_4lLRcA&list=PLt3qygA9_hjD53pMrNHUfrs4hliCLlRHH)
 
-## Leadership
-
-### Chairs
-No Chair persons currently, temporary managers are:
+## Organizers
 
 * **[@dexterslabor](https://github.com/dexterslabor)**
 * **[@kaiyzen](https://github.com/kaiyzen)**

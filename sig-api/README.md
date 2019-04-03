@@ -4,12 +4,10 @@ This SIG covers the data format, apis and sdks for nem2.
 
 ## Meetings
 
-TODO: add meeting details here
+  * [Meeting agenda and notes](https://docs.google.com/document/d/1ikbwPH3dIPeyjANtL-oNbfPDZOmM1eEdg0v_WQoqAHs/edit)
+  * [Meeting Recordings](https://www.youtube.com/playlist?list=PLt3qygA9_hjDmv9tLAWZkHBBrnkGNSFBY)
 
-## Leadership
-
-### Chairs
-No Chair persons currently, temporary managers are:
+## Organizers
 
 * **[@dgarcia360](https://github.com/dgarcia360)**
 * **[@kaiyzen](https://github.com/kaiyzen)**

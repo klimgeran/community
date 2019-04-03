@@ -4,14 +4,10 @@ This SIG covers documentation, doc processes, and doc publishing for NEMtech rel
 
 ## Meetings
 
-* Regular SIG Meeting: Thursdays at 14:00 PT (Pacific Time) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=14:00&tz=PT%20%28Pacific%20Time%29).
   * [Meeting notes and Agenda](https://docs.google.com/document/d/1x8I9Eai5wMCEnySbQErftG9Qcm-GMUa_bH0kQlT1Sqw/edit#).
   * [Meeting recordings](https://www.youtube.com/watch?v=Ltk9L8YjkEw&list=PLt3qygA9_hjAQkUyElNAermrI_gAV9jYT).
 
-## Leadership
-
-### Chairs
-The Chairs of the SIG run operations and processes governing the SIG.
+## Organizers
 
 * **[@dgarcia360](https://github.com/dgarcia360)**
 

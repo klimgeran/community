@@ -4,13 +4,12 @@ This working group is focused on all things security tokens and security token o
 
 ## Meetings
 
-TODO: add meeting details once settled
+  * [Meeting agenda and notes](https://docs.google.com/document/d/1zMDuuUqZCLgXpXDF3KoOaQLfSJdJHMUiFr24ezyTHhY/edit)
+  * [Meeting Recordings](https://www.youtube.com/playlist?list=PLt3qygA9_hjAuN3BxLa8AqWsIOIuVvzuy)
 
 ## Organizers
 
-TBD
 
 ## Contact
-* [Slack](https://nem2.slack.com/messages/wg-apostille)
-* [Mailing List](https://groups.google.com/forum/#!forum/nemtech-wg-apostille)
+* [Slack](https://nem2.slack.com/messages/wg-sto)
 
