@@ -1,4 +1,4 @@
-# NEM Software Development Kits: Protocol Compatibility
+# Projects & SDK Protocol Compatibility
 
 ## Table of contents
 
