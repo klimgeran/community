@@ -17,7 +17,7 @@
 
 This document aims to group technical features of Milestones in the Catapult Protocol Development project and assess/update status reports about specific Software Development Kits compatibility.
 
-This document may be moved to a nemtech repository in case it is deemed necessary. For the time being the document should provide with an easy aggregation of all features addressed in the protocol project during milestones development and should provide a clear compatibility table for individual protocol features / or changes.
+The document should provide with an easy aggregation of all features addressed in the protocol project during milestones development and should provide a clear compatibility table for individual protocol features / or changes.
 
 ## Protocol Version Compatibilities
 
@@ -95,18 +95,6 @@ Following table describes status updates of Projects grouped in different _speci
 |**SIG-tooling-infra** | | |  |
 | [catapult-service-bootstrap](https://github.com/nemtech/catapult-service-bootstrap) | Cow | [v0.3.0](https://github.com/tech-bureau/catapult-service-bootstrap/releases/tag/v0.3.0) | |
 | [nem2-camel](https://github.com/nemtech/nem2-camel) | N/A | N/A | |
-
-## Tests
-
-TBD
-
-## References
-
-- `catapult-server`: https://github.com/nemtech/catapult-server
-- `catapult-rest`: https://github.com/nemtech/catapult-rest
-- `catbuffer`:  https://github.com/nemtech/catbuffer
-- `nem2-sdk-typescript-javascript`: https://github.com/nemtech/nem2-sdk-typescript-javascript
-- `nem2-sdk-java`: https://github.com/nemtech/nem2-sdk-java
 
 ## History
 
