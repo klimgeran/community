@@ -8,9 +8,7 @@
   - [Elephant: Protocol v0.5.?.?](#)
   - [Dragon: Protocol v0.4.?.?](#)
   - [Cow: Protocol v0.3.0.2](#cow-protocol-v0302)
-- [Projects Status Updates](#projects-status-update)
-- [Tests](#tests)
-- [References](#references)
+- [Projects Status Updates](#projects-status-updates)
 - [History](#history)
 
 ## Abstract
@@ -83,21 +81,15 @@ Following table describes status updates of Projects grouped in different _speci
 | [nem2-sdk-csharp](https://github.com/nemtech/nem2-sdk-csharp) | Alpaca | N/A | |
 |**SIG-client** | | | |
 | [nem2-cli](https://github.com/nemtech/nem2-cli) | Cow | [v0.11.1](https://github.com/nemtech/nem2-cli/releases/tag/v0.11.1) | Not all features are implemented. |
-| [nem2-prototyping-tool](https://github.com/nemtech/nem2-prototyping-tool) | Alpaca | N/A | Depends on SDK update.|
+| [nem2-prototyping-tool](https://github.com/nemtech/nem2-prototyping-tool) | Alpaca | N/A | |
 |**SIG-docs** | | |
-| [nem2-docs](https://github.com/nemtech/nem2-docs) | Cow | N/A| |
+| [nem2-docs](https://github.com/nemtech/nem2-docs) | Cow | [v0.16.2](https://github.com/nemtech/nem2-docs/releases/tag/v0.16.2) | |
 | [nem2-curricular-framework](https://github.com/nemtech/nem2-curricular-framework) | Alpaca | N/A| |
-| [nem2-workshop-nem-applied-to-supply-chain](https://github.com/nemtech/nem2-workshop-nem-applied-to-supply-chain) | Alpaca | N/A | Depends on SDK update. |
-| [nem2-workshop-document-notarization](https://github.com/nemtech/nem2-workshop-document-notarization) | Alpaca |  N/A | Depends on SDK update. |
+| [nem2-workshop-nem-applied-to-supply-chain](https://github.com/nemtech/nem2-workshop-nem-applied-to-supply-chain) | Cow | N/A | |
+| [nem2-workshop-document-notarization](https://github.com/nemtech/nem2-workshop-document-notarization) | Cow |  N/A | |
 |**SIG-testing** | | | |
-| [nem2-scenarios](https://github.com/nemtech/nem2-scenarios) | Bison | N/A | |
+| [nem2-scenarios](https://github.com/nemtech/nem2-scenarios) | Cow | N/A | |
 | [test-vectors](https://github.com/nemtech/test-vectors) | N/A | N/A | |
 |**SIG-tooling-infra** | | |  |
 | [catapult-service-bootstrap](https://github.com/nemtech/catapult-service-bootstrap) | Cow | [v0.3.0](https://github.com/tech-bureau/catapult-service-bootstrap/releases/tag/v0.3.0) | |
 | [nem2-camel](https://github.com/nemtech/nem2-camel) | N/A | N/A | |
-
-## History
-
-| **Date**      | **Version**   |
-| ------------- | ------------- |
-| Apr 25 2019    | Initial Draft |
