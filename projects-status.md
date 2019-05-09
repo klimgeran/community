@@ -9,7 +9,6 @@
   - [Dragon: Protocol v0.4.?.?](#)
   - [Cow: Protocol v0.3.0.2](#cow-protocol-v0302)
 - [Projects Status Updates](#projects-status-updates)
-- [History](#history)
 
 ## Abstract
 
