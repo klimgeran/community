@@ -33,33 +33,34 @@ Following table describes the status attributions for each of the icons that wil
 
 | feature | server@0.4.?.? | rest@? | sdk-js@? | sdk-java@? | sdk-python@? | sdk-unity@? | sdk-php@? |
 | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| mosaic levy | :question:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
+| consensus update PoS+ | :question:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
+| enhanced delegated harvesting | :question:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
 | metadata key-value| :question:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
 
 ### Dragon: [Protocol v0.4.?.?](https://github.com/nemtech/catapult-server/milestone/5)
 
 | feature | server@0.4.?.? | rest@? | sdk-js@? | sdk-java@? | sdk-python@? | sdk-unity@? | sdk-php@? |
 | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| hashlock with alias | :question:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
-| optin cosigners | :question:  | :white_check_mark:  | :white_check_mark:  | :stop_sign:  | :white_check_mark: | :stop_sign: | :stop_sign: |
-| lightning network | :question:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
-| consensus PoS+ | :question:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
-| new harvesting | :question:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
+| hashlock with alias | :white_check_mark:  | :stop_sign:  | :o:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
+| optin cosigners | :white_check_mark: | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign: | :stop_sign: | :stop_sign: |
+| lightning network | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
+| consensus PoS+ | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
+| generation hash | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
 
 ### Cow: [Protocol v0.3.0.2](https://github.com/nemtech/catapult-server/milestone/3)
 
-| feature | [server@0.3.0.2](https://github.com/nemtech/catapult-server/releases/tag/v0.3.0.2) | [rest@0.7.14](https://github.com/nemtech/catapult-rest/releases/tag/v0.7.14) | [sdk-js@0.11.5](https://github.com/nemtech/nem2-sdk-typescript-javascript/releases/tag/v0.11.5) | [sdk-java@0.9.0](https://github.com/nemtech/nem2-sdk-java/releases/tag/v0.9.0-beta) | sdk-python@? | sdk-unity@? | sdk-php@? |
+| feature | [server@0.3.0.2](https://github.com/nemtech/catapult-server/releases/tag/v0.3.0.2) | [rest@0.7.14](https://github.com/nemtech/catapult-rest/releases/tag/v0.7.14) | [sdk-js@0.11.5](https://github.com/nemtech/nem2-sdk-typescript-javascript/releases/tag/v0.11.5) | [sdk-java@0.11-alpha](https://github.com/nemtech/nem2-sdk-java/releases/tag/v0.11-alpha) | sdk-python@? | sdk-unity@? | sdk-php@? |
 | :-: |:-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| catbuffer | :white_check_mark:  | :stop_sign:  | :stop_sign:  |  :stop_sign: | :o: | :stop_sign: | :stop_sign: |
-| mosaic/namespace split | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :o:  | :white_check_mark: | :stop_sign: | :stop_sign: |
-| aliases | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :o:  | :white_check_mark: | :stop_sign: | :stop_sign: |
-| receipts | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
-| account props | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
-| fees | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
-| delegated harvesting | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
+| catbuffer | :white_check_mark:  | :stop_sign:  | :stop_sign:  |  :o: | :stop_sign: | :stop_sign: | :stop_sign: |
+| mosaic/namespace split | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark: | :stop_sign: | :stop_sign: |
+| aliases | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark: | :stop_sign: | :stop_sign: |
+| receipts | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :o: | :stop_sign: | :stop_sign: | :stop_sign: |
+| account props | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign: | :stop_sign: | :stop_sign: |
+| fees | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark: | :o: | :stop_sign: | :stop_sign: |
+| delegated harvesting | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign: | :stop_sign: | :stop_sign: |
 | cow DTOs | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  |  :o: | :stop_sign: | :stop_sign: |
 | secret locks hash algos | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign: | :stop_sign: | :stop_sign: |
-| hashlock | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark: | :stop_sign: | :stop_sign: |
+| hashlock | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :o: | :stop_sign: | :stop_sign: |
 | merkle proofs | :white_check_mark:  | :white_check_mark:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: |
 
 ## Projects Status Updates
@@ -71,16 +72,16 @@ Following table describes status updates of Projects grouped in different _speci
 | Project | Milestone | Version Tag | Comment |
 | :-:  | :-: | :-: | :-: |
 |**SIG-api** | | | |
-| [catapult-server](https://github.com/nemtech/catapult-server) | Cow | [v0.3.0.2](https://github.com/nemtech/catapult-server/releases/tag/v0.3.0.2) | |
-| [catapult-rest](https://github.com/nemtech/catapult-server) | Cow | [v0.7.14](https://github.com/nemtech/catapult-rest/releases/tag/v0.7.14) | |
+| [catapult-server](https://github.com/nemtech/catapult-server) | Dragon | [v0.4.0.1](https://github.com/nemtech/catapult-server/releases/tag/v0.4.0.1) | |
+| [catapult-rest](https://github.com/nemtech/catapult-server) | Dragon | [v0.7.15](https://github.com/nemtech/catapult-rest/releases/tag/v0.7.15) | |
 | [catbuffer](https://github.com/nemtech/catbuffer) | Cow | N/A | |
-| [nem2-library-js](https://github.com/nemtech/nem2-library-js) | Cow | [v0.9.14](https://github.com/nemtech/nem2-library-js/releases/tag/v0.9.14) | |
-| [nem2-sdk-typescript-javascript](https://github.com/nemtech/nem2-sdk-typescript-javascript) | Cow | [v0.11.5](https://github.com/nemtech/nem2-sdk-typescript-javascript/releases/tag/v0.11.5) | |
-| [nem2-sdk-java](https://github.com/nemtech/nem2-sdk-java) | Alpaca | [v0.9.0-beta](https://github.com/nemtech/nem2-sdk-java/releases/tag/v0.9.0-beta) | |
+| [nem2-library-js](https://github.com/nemtech/nem2-library-js) | Dragon | [v0.10.2](https://github.com/nemtech/nem2-library-js/releases/tag/v0.10.2) | |
+| [nem2-sdk-typescript-javascript](https://github.com/nemtech/nem2-sdk-typescript-javascript) | Dragon | [v0.12.1](https://github.com/nemtech/nem2-sdk-typescript-javascript/releases/tag/v0.12.1) | |
+| [nem2-sdk-java](https://github.com/nemtech/nem2-sdk-java) | Cow | [v0.11-alpha](https://github.com/nemtech/nem2-sdk-java/releases/tag/v0.11-alpha) | |
 | [nem2-sdk-csharp](https://github.com/nemtech/nem2-sdk-csharp) | Alpaca | N/A | |
 |**SIG-client** | | | |
-| [nem2-cli](https://github.com/nemtech/nem2-cli) | Cow | [v0.11.1](https://github.com/nemtech/nem2-cli/releases/tag/v0.11.1) | Not all features are implemented. |
-| [nem2-prototyping-tool](https://github.com/nemtech/nem2-prototyping-tool) | Alpaca | N/A | |
+| [nem2-cli](https://github.com/nemtech/nem2-cli) | Dragon | [v0.12.1](https://github.com/nemtech/nem2-cli/releases/tag/v0.12.1) | Missing multi-sig, account props, receipts. |
+| [nem2-prototyping-tool](https://github.com/nemtech/nem2-prototyping-tool) | Alpaca | N/A | Depends on SDK update.|
 |**SIG-docs** | | |
 | [nem2-docs](https://github.com/nemtech/nem2-docs) | Cow | [v0.16.2](https://github.com/nemtech/nem2-docs/releases/tag/v0.16.2) | |
 | [nem2-curricular-framework](https://github.com/nemtech/nem2-curricular-framework) | Alpaca | N/A| |
@@ -92,3 +93,11 @@ Following table describes status updates of Projects grouped in different _speci
 |**SIG-tooling-infra** | | |  |
 | [catapult-service-bootstrap](https://github.com/nemtech/catapult-service-bootstrap) | Cow | [v0.3.0](https://github.com/tech-bureau/catapult-service-bootstrap/releases/tag/v0.3.0) | |
 | [nem2-camel](https://github.com/nemtech/nem2-camel) | N/A | N/A | |
+| [nf-catapult-testnet-node](https://github.com/nemfoundation/nf-catapult-testnet-node/tree/testnet-node) | Dragon | [latest](https://github.com/nemfoundation/nf-catapult-testnet-node/tree/testnet-node) | |
+
+## History
+
+| **Date**      | **Version**   |
+| ------------- | ------------- |
+| Apr 25 2019   | Initial Draft |
+| Jun 06 2019   | Dragon Update | 
