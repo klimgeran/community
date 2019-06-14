@@ -5,10 +5,11 @@
 - [Abstract](#abstract)
 - [Protocol Version Compatibilities](#protocol-version-compatibilities)
   - [Icon Status Attribution](#icon-status-attribution)
-  - [Elephant: Protocol v0.5.?.?](#)
-  - [Dragon: Protocol v0.4.?.?](#)
+  - [Elephant: Protocol v0.5.?.?](#elephant-protocol-v05)
+  - [Dragon: Protocol v0.4.?.?](#dragon-protocol-v04)
   - [Cow: Protocol v0.3.0.2](#cow-protocol-v0302)
 - [Projects Status Updates](#projects-status-updates)
+- [History](#history)	
 
 ## Abstract
 
@@ -69,31 +70,31 @@ Following table describes status updates of Projects grouped in different _speci
 
   - https://github.com/nemtech/community
 
-| Project | Milestone | Version Tag | Comment |
-| :-:  | :-: | :-: | :-: |
-|**SIG-api** | | | |
-| [catapult-server](https://github.com/nemtech/catapult-server) | Dragon | [v0.4.0.1](https://github.com/nemtech/catapult-server/releases/tag/v0.4.0.1) | |
-| [catapult-rest](https://github.com/nemtech/catapult-server) | Dragon | [v0.7.15](https://github.com/nemtech/catapult-rest/releases/tag/v0.7.15) | |
-| [catbuffer](https://github.com/nemtech/catbuffer) | Cow | N/A | |
-| [nem2-library-js](https://github.com/nemtech/nem2-library-js) | Dragon | [v0.10.2](https://github.com/nemtech/nem2-library-js/releases/tag/v0.10.2) | |
-| [nem2-sdk-typescript-javascript](https://github.com/nemtech/nem2-sdk-typescript-javascript) | Dragon | [v0.12.1](https://github.com/nemtech/nem2-sdk-typescript-javascript/releases/tag/v0.12.1) | |
-| [nem2-sdk-java](https://github.com/nemtech/nem2-sdk-java) | Cow | [v0.11-alpha](https://github.com/nemtech/nem2-sdk-java/releases/tag/v0.11-alpha) | |
-| [nem2-sdk-csharp](https://github.com/nemtech/nem2-sdk-csharp) | Alpaca | N/A | |
-|**SIG-client** | | | |
-| [nem2-cli](https://github.com/nemtech/nem2-cli) | Dragon | [v0.12.1](https://github.com/nemtech/nem2-cli/releases/tag/v0.12.1) | Missing multi-sig, account props, receipts. |
+| Project | Milestone | Version Tag |
+| :-:  | :-: | :-: |
+|**SIG-api** | | |
+| [catapult-server](https://github.com/nemtech/catapult-server) | Dragon | [v0.4.0.1](https://github.com/nemtech/catapult-server/releases/tag/v0.4.0.1) |
+| [catapult-rest](https://github.com/nemtech/catapult-server) | Dragon | [v0.7.15](https://github.com/nemtech/catapult-rest/releases/tag/v0.7.15) |
+| [catbuffer](https://github.com/nemtech/catbuffer) | Cow | N/A |
+| [nem2-library-js](https://github.com/nemtech/nem2-library-js) | Dragon | [v0.10.2](https://github.com/nemtech/nem2-library-js/releases/tag/v0.10.2) |
+| [nem2-sdk-typescript-javascript](https://github.com/nemtech/nem2-sdk-typescript-javascript) | Dragon | [v0.12.1](https://github.com/nemtech/nem2-sdk-typescript-javascript/releases/tag/v0.12.1) |
+| [nem2-sdk-java](https://github.com/nemtech/nem2-sdk-java) | Cow | [v0.11-alpha](https://github.com/nemtech/nem2-sdk-java/releases/tag/v0.11-alpha) |
+| [nem2-sdk-csharp](https://github.com/nemtech/nem2-sdk-csharp) | Alpaca | N/A |
+|**SIG-client** | | |
+| [nem2-cli](https://github.com/nemtech/nem2-cli) | Dragon | [v0.12.1](https://github.com/nemtech/nem2-cli/releases/tag/v0.12.1) |
 | [nem2-prototyping-tool](https://github.com/nemtech/nem2-prototyping-tool) | Alpaca | N/A | Depends on SDK update.|
 |**SIG-docs** | | |
-| [nem2-docs](https://github.com/nemtech/nem2-docs) | Dragon | [v0.17.6](https://github.com/nemtech/nem2-docs/releases/tag/v0.17.6) | |
-| [nem2-curricular-framework](https://github.com/nemtech/nem2-curricular-framework) | Alpaca | N/A| |
-| [nem2-workshop-nem-applied-to-supply-chain](https://github.com/nemtech/nem2-workshop-nem-applied-to-supply-chain) | Cow | N/A | |
-| [nem2-workshop-document-notarization](https://github.com/nemtech/nem2-workshop-document-notarization) | Cow |  N/A | |
-|**SIG-testing** | | | |
-| [nem2-scenarios](https://github.com/nemtech/nem2-scenarios) | Cow | N/A | |
-| [test-vectors](https://github.com/nemtech/test-vectors) | N/A | N/A | |
-|**SIG-tooling-infra** | | |  |
-| [catapult-service-bootstrap](https://github.com/nemtech/catapult-service-bootstrap) | Cow | [v0.3.0](https://github.com/tech-bureau/catapult-service-bootstrap/releases/tag/v0.3.0) | |
-| [nem2-camel](https://github.com/nemtech/nem2-camel) | N/A | N/A | |
-| [nf-catapult-testnet-node](https://github.com/nemfoundation/nf-catapult-testnet-node/tree/testnet-node) | Dragon | [latest](https://github.com/nemfoundation/nf-catapult-testnet-node/tree/testnet-node) | |
+| [nem2-docs](https://github.com/nemtech/nem2-docs) | Dragon | [v0.17.6](https://github.com/nemtech/nem2-docs/releases/tag/v0.17.6) |
+| [nem2-curricular-framework](https://github.com/nemtech/nem2-curricular-framework) | Alpaca | N/A|
+| [nem2-workshop-nem-applied-to-supply-chain](https://github.com/nemtech/nem2-workshop-nem-applied-to-supply-chain) | Cow | N/A |
+| [nem2-workshop-document-notarization](https://github.com/nemtech/nem2-workshop-document-notarization) | Cow |  N/A |
+|**SIG-testing** | | |
+| [nem2-scenarios](https://github.com/nemtech/nem2-scenarios) | Cow | N/A |
+| [test-vectors](https://github.com/nemtech/test-vectors) | N/A | N/A |
+|**SIG-tooling-infra** | | |
+| [catapult-service-bootstrap](https://github.com/nemtech/catapult-service-bootstrap) | Cow | [v0.3.0](https://github.com/tech-bureau/catapult-service-bootstrap/releases/tag/v0.3.0) |
+| [nem2-camel](https://github.com/nemtech/nem2-camel) | N/A | N/A |
+| [nf-catapult-testnet-node](https://github.com/nemfoundation/nf-catapult-testnet-node/tree/testnet-node) | Dragon | [latest](https://github.com/nemfoundation/nf-catapult-testnet-node/tree/testnet-node) |
 
 ## History
 
