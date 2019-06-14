@@ -83,7 +83,7 @@ Following table describes status updates of Projects grouped in different _speci
 | [nem2-cli](https://github.com/nemtech/nem2-cli) | Dragon | [v0.12.1](https://github.com/nemtech/nem2-cli/releases/tag/v0.12.1) | Missing multi-sig, account props, receipts. |
 | [nem2-prototyping-tool](https://github.com/nemtech/nem2-prototyping-tool) | Alpaca | N/A | Depends on SDK update.|
 |**SIG-docs** | | |
-| [nem2-docs](https://github.com/nemtech/nem2-docs) | Cow | [v0.16.2](https://github.com/nemtech/nem2-docs/releases/tag/v0.16.2) | |
+| [nem2-docs](https://github.com/nemtech/nem2-docs) | Dragon | [v0.17.6](https://github.com/nemtech/nem2-docs/releases/tag/v0.17.6) | |
 | [nem2-curricular-framework](https://github.com/nemtech/nem2-curricular-framework) | Alpaca | N/A| |
 | [nem2-workshop-nem-applied-to-supply-chain](https://github.com/nemtech/nem2-workshop-nem-applied-to-supply-chain) | Cow | N/A | |
 | [nem2-workshop-document-notarization](https://github.com/nemtech/nem2-workshop-document-notarization) | Cow |  N/A | |
