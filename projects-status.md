@@ -20,15 +20,15 @@ Following table describes the status attributions for each of the icons that wil
 | :stop_sign: | Feature is not available. |
 
 
-### Elephant III: [Protocol v?](#)
+### Elephant III: [Protocol v0.7.0.1](#)
 
 **Next**
 
 | feature | server@? | rest@? | [sdk-js@?][sdk-ts] | [sdk-java@?][sdk-java] | [sdk-python@?][sdk-python] | [sdk-unity@?][sdk-unity] | [sdk-php@?][sdk-php] | [sdk-swift@?][sdk-swift] |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| enhanced delegated harvesting | :o:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
-| catbuffer serialization changes | :o:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
-| MongoDB collections breaking changes | :o:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
+| persistent delegated harvesting | :white_check_mark:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
+| catbuffer serialization changes | :white_check_mark:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
+| MongoDB collections breaking changes | :white_check_mark: | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
 
 ### Elephant II: [Protocol v0.6.0.1][server-0601]
 
@@ -36,8 +36,8 @@ Following table describes the status attributions for each of the icons that wil
 
 | feature | [server@0.6.0.1][server-0601] | [rest@0.7.17][rest-0717] | [sdk-js@0.13.1][sdk-ts-0131] | [sdk-java@?][sdk-java] | [sdk-python@?][sdk-python] | [sdk-unity@?][sdk-unity] | [sdk-php@?][sdk-php] | [sdk-swift@?][sdk-swift] |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| mosaic restrictions| :white_check_mark:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
-| metadata key-value| :o:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
+| mosaic restrictions| :white_check_mark:  | :stop_sign:  | :o:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
+| metadata key-value|  :white_check_mark:  | :stop_sign:  | :stop_sign:  | :o:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
 
 ### Elephant I: [Protocol v0.5.0.1][server-0501]
 
@@ -85,6 +85,7 @@ Following table describes the status attributions for each of the icons that wil
 | Jul 12 2019   | Projects Update |
 | Aug 19 2019   | Elephant Update |
 
+[server-0701]: https://github.com/nemtech/catapult-server/releases/tag/v0.7.0.1
 [server-0601]: https://github.com/nemtech/catapult-server/releases/tag/v0.6.0.1
 [server-0501]: https://github.com/nemtech/catapult-server/releases/tag/v0.5.0.1
 [server-0401]: https://github.com/nemtech/catapult-server/releases/tag/v0.4.0.1
