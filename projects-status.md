@@ -34,7 +34,7 @@ Following table describes the status attributions for each of the icons that wil
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | persistent delegated harvesting | :white_check_mark:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
 | catbuffer serialization changes | :white_check_mark:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
-| MongoDB collections breaking changes | :white_check_mark: | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
+| MongoDB collections breaking changes | :white_check_mark: | :white_check_mark:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
 
 ### Elephant II: [Protocol v0.6.0.1][server-0601]
 
@@ -50,8 +50,8 @@ Following table describes the status attributions for each of the icons that wil
 
 | feature | server | rest | sdk-js | sdk-java | sdk-python | sdk-unity | sdk-php | sdk-swift |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| mosaic restrictions| :white_check_mark:  | :stop_sign:  | :o:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
-| metadata key-value|  :white_check_mark:  | :stop_sign:  | :o:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
+| mosaic restrictions| :white_check_mark:  | :o:  | :o:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
+| metadata key-value|  :white_check_mark:  | :o:  | :o:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
 
 ### Elephant I: [Protocol v0.5.0.1][server-0501]
 
