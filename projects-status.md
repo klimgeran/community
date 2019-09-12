@@ -24,7 +24,13 @@ Following table describes the status attributions for each of the icons that wil
 
 **Next**
 
-| feature | [server@0.7.0.1][server-0701] | rest@? | [sdk-js@?][sdk-ts] | [sdk-java@?][sdk-java] | [sdk-python@?][sdk-python] | [sdk-unity@?][sdk-unity] | [sdk-php@?][sdk-php] | [sdk-swift@?][sdk-swift] |
+#### Protocol Compatibility
+
+* [server@0.7.0.1][server-0701]
+
+#### Feature Status (latest)
+
+| feature | server | rest | sdk-js | sdk-java | sdk-python | sdk-unity | sdk-php | sdk-swift |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | persistent delegated harvesting | :white_check_mark:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
 | catbuffer serialization changes | :white_check_mark:  | :stop_sign:  | :stop_sign:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
@@ -34,14 +40,30 @@ Following table describes the status attributions for each of the icons that wil
 
 **Latest**
 
-| feature | [server@0.6.0.1][server-0601] | [rest@0.7.17][rest-0717] | [sdk-js@0.13.1][sdk-ts-0131] | [sdk-java@?][sdk-java] | [sdk-python@?][sdk-python] | [sdk-unity@?][sdk-unity] | [sdk-php@?][sdk-php] | [sdk-swift@?][sdk-swift] |
+#### Protocol Compatibility
+
+* [server@0.6.0.1][server-0601] 
+* [rest@0.7.17][rest-0717]
+* [sdk-js@0.13.1][sdk-ts-0131] 
+
+#### Feature Status (latest)
+
+| feature | server | rest | sdk-js | sdk-java | sdk-python | sdk-unity | sdk-php | sdk-swift |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | mosaic restrictions| :white_check_mark:  | :stop_sign:  | :o:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
 | metadata key-value|  :white_check_mark:  | :stop_sign:  | :o:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
 
 ### Elephant I: [Protocol v0.5.0.1][server-0501]
 
-| feature | [server@0.5.0.1][server-0501] | [rest@0.7.15][rest-0715] | [sdk-js@0.13.0][sdk-ts-0130] | [sdk-java@?][sdk-java] | [sdk-python@?][sdk-python] | [sdk-unity@?][sdk-unity] | [sdk-php@?][sdk-php] | [sdk-swift@?][sdk-swift] |
+#### Protocol Compatibility
+
+* [server@0.5.0.1][server-0501]
+* [rest@0.7.15][rest-0715]
+* [sdk-js@0.13.0][sdk-ts-0130]
+
+#### Feature Status (latest)
+
+| feature | server | rest | sdk-js | sdk-java | sdk-python | sdk-unity | sdk-php | sdk-swift |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | reset transaction version | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
 | rename properties to restrictions | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: | 
@@ -49,7 +71,16 @@ Following table describes the status attributions for each of the icons that wil
 
 ### Dragon: [Protocol v0.4.0.1][server-0401]
 
-| feature | [server@0.4.0.1][server-0401] | [rest@0.7.15][rest-0715] | [sdk-js@0.12.4][sdk-ts-0124] | [sdk-java@?][sdk-java] | [sdk-python@?][sdk-python] | [sdk-unity@?][sdk-unity] | [sdk-php@?][sdk-php] | [sdk-swift@?][sdk-swift] |
+#### Protocol Compatibility
+
+* [server@0.4.0.1][server-0401]
+* [rest@0.7.15][rest-0715] 
+* [sdk-js@0.12.4][sdk-ts-0124]
+* [sdk-java@?][sdk-java] 
+
+#### Feature Status (latest)
+
+| feature | server | rest | sdk-js | sdk-java | sdk-python | sdk-unity | sdk-php | sdk-swift |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | hashlock with alias | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
 | optin cosigners | :white_check_mark: | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
@@ -61,7 +92,15 @@ Following table describes the status attributions for each of the icons that wil
 
 ### Cow: [Protocol v0.3.0.2][server-0302]
 
-| feature | [server@0.3.0.2][server-0302] | [rest@0.7.14][rest-0714] | [sdk-js@0.11.6][sdk-ts-0116] | [sdk-java@0.11-alpha][sdk-java-0110] | [sdk-python@?][sdk-python] | [sdk-unity@?][sdk-unity] | [sdk-php@?][sdk-php] | [sdk-swift@?][sdk-swift] |
+#### Protocol Compatibility
+
+* [server@0.3.0.2][server-0302]
+* [rest@0.7.14][rest-0714]
+* [sdk-js@0.11.6][sdk-ts-0116]
+
+#### Feature Status (latest)
+
+| feature | server | rest | sdk-js | sdk-java | sdk-python | sdk-unity | sdk-php | sdk-swift |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | catbuffer | :white_check_mark:  | :stop_sign:  | :o:  |  :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
 | mosaic/namespace split | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
