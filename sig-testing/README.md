@@ -25,6 +25,7 @@ This SIG covers all things testing, infrastructure and tooling related
 The following subprojects are owned by sig-testing:
 
 * **[nem2-scenarios](https://github.com/nemtech/nem2-scenarios)**
+* **[nem2-e2e-tests](https://github.com/nemtech/nem2-e2e-tests)**
 
 ## SIG Goals
 
