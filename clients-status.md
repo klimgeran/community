@@ -79,8 +79,8 @@ Wallet packages are being worked on mostly by foundation teams. Following packag
 | User can view account alias info | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
 | User can view multisig info | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User can view account restrictions | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
-| User can view mosaic restrictions | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
-| User can view metadata | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
+| User can view mosaic restrictions | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
+| User can view metadata | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User can view block data | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User can view receipts data | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User is notified about transactions | :white_check_mark:  | :white_check_mark: | :stop_sign: | :stop_sign: |
@@ -103,7 +103,7 @@ Wallet packages are being worked on mostly by foundation teams. Following packag
 | User can specify transaction MAX_FEE | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
 | User can issue Transfer without message | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
 | User can issue Transfer with message | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
-| User can issue Transfer with encrypted message | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
+| User can issue Transfer with encrypted message | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User can issue Transfer with persistent harvesting delegation | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User can issue Alias for mosaic | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
 | User can issue Alias for account | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
@@ -113,14 +113,14 @@ Wallet packages are being worked on mostly by foundation teams. Following packag
 | User can issue Register Namespace | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
 | User can issue Mosaic Definition | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
 | User can issue Mosaic Supply Change | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
-| User can issue Secret Lock | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
-| User can issue Secret Proof | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
+| User can issue Secret Lock | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
+| User can issue Secret Proof | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User can issue Hash Lock | :stop_sign: | :white_check_mark: | :stop_sign: | :stop_sign: |
-| User can issue Multisig Account Modification | :stop_sign: | :white_check_mark: | :stop_sign: | :stop_sign: |
-| Multisig Account Modification requires opt-in | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
-| User can issue Account Address Restriction | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
-| User can issue Account Mosaic Restriction | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
-| User can issue Account Operation Restriction | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
+| User can issue Multisig Account Modification | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
+| Multisig Account Modification requires opt-in | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
+| User can issue Account Address Restriction | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
+| User can issue Account Mosaic Restriction | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
+| User can issue Account Operation Restriction | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User can issue Mosaic Global Restriction | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User can issue Mosaic Address Restriction | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User can issue Account Metadata | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
@@ -201,6 +201,7 @@ The Faucet project was released by a community member. The source code for this 
 | ------------- | --------------- |
 | Jul 14 2019   | Initial Draft   |
 | Sep 12 2019   | Second Update   |
+| Oct 25 2019   | CLI update      |
 
 [wallet-desktop]: https://github.com/nemfoundation/nem2-desktop-wallet
 [wallet-mobile]: https://github.com/NemTechCN/nem2-mwallet-CN
