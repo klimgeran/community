@@ -123,9 +123,9 @@ Wallet packages are being worked on mostly by foundation teams. Following packag
 | User can issue Account Operation Restriction | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User can issue Mosaic Global Restriction | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User can issue Mosaic Address Restriction | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
-| User can issue Account Metadata | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
-| User can issue Mosaic Metadata | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
-| User can issue Namespace Metadata | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
+| User can issue Account Metadata |:white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
+| User can issue Mosaic Metadata | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
+| User can issue Namespace Metadata | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
 
 * **Due to the possibility of issuing Transaction URI, in fact any transaction type can be issued. Each transaction type is listed as to determine whether there is _screen to prepare_ said transaction types.**
 
