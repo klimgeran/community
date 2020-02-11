@@ -9,9 +9,9 @@ This SIG covers projects related to end user client experience such as wallets, 
 
 ## Organizers
 
+* **[@evias](https://github.com/evias)**
 * **[@dexterslabor](https://github.com/dexterslabor)**
 * **[@kaiyzen](https://github.com/kaiyzen)**
-
 
 ## Contact
 
@@ -23,7 +23,6 @@ This SIG covers projects related to end user client experience such as wallets, 
 The following subprojects are owned by sig-client:
 
 * **[nem2-cli](https://github.com/nemtech/nem2-cli)**
-* **[nem2-prototyping-tool](https://github.com/nemtech/nem2-prototyping-tool)**
 
 ## SIG Goals
 
