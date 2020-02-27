@@ -10,7 +10,6 @@ This SIG covers projects related to end user client experience such as wallets, 
 ## Organizers
 
 * **[@evias](https://github.com/evias)**
-* **[@dexterslabor](https://github.com/dexterslabor)**
 * **[@kaiyzen](https://github.com/kaiyzen)**
 
 ## Contact
