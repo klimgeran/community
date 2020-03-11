@@ -22,7 +22,7 @@ The following subprojects are owned by sig-docs:
 
 * **[nem2-docs](https://github.com/nemtech/nem2-docs)**
 * **[nemtech.github.io](https://github.com/nemtech/nemtech.github.io)**
-* **[nem2-curricular-framework](https://github.com/nemtech/nem2-curricular-framework)**
+* **[nem2-openapi](https://github.com/nemtech/nem2-openapi)**
 
 ## SIG Goals
 
