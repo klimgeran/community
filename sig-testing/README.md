@@ -10,10 +10,8 @@ This SIG covers all things testing, infrastructure and tooling related
 
 ### Organizers
 
-* **[@dgarcia360](https://github.com/dgarcia360)**
 * **[@kaiyzen](https://github.com/kaiyzen)**
 * **[@Wayonb](https://github.com/wayonb)**
-
 
 ## Contact
 
