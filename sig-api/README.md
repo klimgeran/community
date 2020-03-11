@@ -9,7 +9,7 @@ This SIG covers the data format, apis and sdks for nem2.
 
 ## Organizers
 
-* **[@dgarcia360](https://github.com/dgarcia360)**
+* **[@rg911](https://github.com/rg911)**
 * **[@kaiyzen](https://github.com/kaiyzen)**
 
 
