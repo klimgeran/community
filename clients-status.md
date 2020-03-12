@@ -10,7 +10,7 @@
   - [Explorer](#explorer)
   - [Faucet](#faucet)
   - [Command Line Interface](#command-line-interface)
-- [History](#history)	
+- [History](#history)
 
 ## Abstract
 
@@ -147,12 +147,19 @@ The Explorer project is being worked on by a team in the foundation. The source 
 | User can view account alias info | :stop_sign: | :white_check_mark: |
 | User can view namespace info | :stop_sign: | :white_check_mark: |
 | User can view block history | :white_check_mark: | :white_check_mark: |
-| User can view receipts data | :stop_sign: | :stop_sign: |
+| User can view receipts data | :stop_sign: | :white_check_mark: |
 | User can view merkle data | :white_check_mark: | :stop_sign: |
 | User can export transaction history | :stop_sign: | :stop_sign: |
 | User can view network nodes | :stop_sign: | :white_check_mark: |
 | User can view node version | :stop_sign: | :white_check_mark: |
 | User can view beneficiary info | :stop_sign: | :white_check_mark: |
+| User can view account metadata | :stop_sign: | :white_check_mark: |
+| User can view mosaic metadata | :stop_sign: | :white_check_mark: |
+| User can view namespace metadata | :stop_sign: | :white_check_mark: |
+| User can view account address restriction | :stop_sign: | :white_check_mark: |
+| User can view account mosaic restriction | :stop_sign: | :white_check_mark: |
+| User can view account operation restriction | :stop_sign: | :white_check_mark: |
+| User can view mosaic global restriction | :stop_sign: | :white_check_mark: |
 | | | |
 | **Transactions** | | |
 | User can view Transfer without message | :white_check_mark: | :white_check_mark: |
@@ -174,6 +181,11 @@ The Explorer project is being worked on by a team in the foundation. The source 
 | User can view details of Account Address Restriction | :white_check_mark: | :white_check_mark: |
 | User can view details of Account Mosaic Restriction | :white_check_mark: | :white_check_mark: |
 | User can view details of Account Operation Restriction | :white_check_mark: | :white_check_mark: |
+| User can view details of Mosaic Global Restriction | :stop_sign: | :white_check_mark: |
+| User can view details of Mosaic Address Restriction | :stop_sign: | :white_check_mark: |
+| User can view details of Account Metadata | :stop_sign: | :white_check_mark: |
+| User can view details of Mosaic Metadata | :stop_sign: | :white_check_mark: |
+| User can view details of Namespace Metadata | :stop_sign: | :white_check_mark: |
 
 ### Faucet
 
