@@ -4,6 +4,7 @@ Decisions and consultations proposed and voted by the PMC.
 
 | Proposal | Status | Proposed by | Decision Date | Comment |
 |-----------------------------------------------------|-------------|---------------|---------------|-----|
+| Add @Vektrat to the PMC                             | APPROVED    | @Jaguar0625   | 20 March 2020 |     | 
 | Move nemtech org on GitHub to symbolplatform        | CONSULTATION| @dgarcia360   | 20 Feb 2020   | - keep it as nemtech (5 votes) <br> - move org to symbolplatform account (3 votes) |
 | Opinion on finalization                             | CONSULTATION| @Jaguar0625  | 14 Feb 2020    | -  not required for public launch but should be added immediately after (6 votes) <br> - required for public launch (4 votes) <br> - not required for public launch but should be added "eventually" (3 votes) |
 | Period willing to delay launch for finalization     | CONSULTATION| @Jaguar0625   | 14 Feb 2020   | -  2 months (6 votes) <br> - 3 months (3 votes)
