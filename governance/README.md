@@ -1,16 +1,16 @@
 # Project Governance
 
-This is a living doc that will be updated on an ongoing basis
+This is a living doc that will be updated on an ongoing basis.
 
 The organization of the project and community is made up of three main types of users:
 
-* **Project Management Committee (PMC)** acts as the steward of the project, various "sub projects" and related efforts. Any change/addition/etc to any of the aspects of the project will be voted upon by the PMC taking input and feedback from the community at large.
+* **Project Management Committee (PMC)** acts as the steward of the project, various "sub projects" and related efforts. Any change/addition/etc to any of the aspects of the project will be voted upon by the PMC, taking input and feedback from the community at large.
 
 * **Committers** are those community members that have been granted commit access to one or more source repositories.  Typically becoming a committer means a participant is making regular to semi-regular contributions to a particular project effort and its repo(s) or helping to lead the related effort.
 
-* **Developers/Users** are community members that are typically consumers of the various project components and contribute in the various communication channels, submit issues and pull requests to repo(s) at times, or are just tracking the project as a in read-only mode
+* **Developers/Users** are community members that are consumers of the various project components and contribute in the various communication channels, submit issues and pull requests to repo(s) at times, or are just tracking the project in read-only mode.
 
-Besides whats known as the "server" part of the project which is the main blockchain server technology, there is a wide range of sub projects and tooling that enable the whole stack to be used by developers and organizations, such as the software development kits, wallets, block explorer(s), etc.  We are arranging all core and sub project efforts into two main buckets, **Special Interest Groups** and **Working Groups**.
+Besides what's known as the "server" part of the project which is the main blockchain server technology, there is a wide range of sub projects and tooling that enable the whole stack to be used by developers and organizations —for example, the software development kits, wallets, block explorer(s), etc.  We are arranging all core and sub project efforts into two main buckets, **Special Interest Groups** and **Working Groups**.
 
 # Special Interest Groups (SIGs)
 
@@ -30,9 +30,9 @@ SIGs are made up of one or more subproject, where most will have > 1 subprojects
 
 TODO: more to be flushed out here for forming and end of working groups, idea of working groups is for shorter lived efforts that span multiple SIGs, typically to kick off new efforts and start up one or more new SIGs.  The initial sole working group will be for the apostille effort.
 
-# Project Mangement Committee (PMC)
+# Project Management Committee (PMC)
 
-The PMC is the top level group for managing the project, which was seeded with the original "3 core devs".  The job of the PMC is to be the stewards of the project from a tech-focused perspective and its software components, irrespective of which commerical or not-for-profit organization for whom they work. Whereas SIGs and Working groups happen more in the open, on community communication channels, the PMC typically operates behind the scenes working with chairs of SIGs and voting on bigger project decisions.
+The PMC is the top level group for managing the project, which was seeded with the original "3 core devs".  The job of the PMC is to be the stewards of the project from a tech-focused perspective and its software components, irrespective of which commercial or not-for-profit organization for whom they work. Whereas SIGs and Working groups happen more in the open, on community communication channels, the PMC typically operates behind the scenes working with chairs of SIGs and voting on bigger project decisions.
 
 Current PMC members:
 
