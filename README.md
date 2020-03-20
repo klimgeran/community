@@ -29,4 +29,4 @@ TODO: add links and details for these
 
 
 
-[Project Governance]:/governance/governance.md
+[Project Governance]:/governance/README.md
