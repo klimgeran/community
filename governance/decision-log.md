@@ -28,3 +28,5 @@ Decisions and consultations proposed and voted by the PMC.
 | Add @dgarcia360 to the PMC                          | APPROVED    | @kaiyzen      | 08 Jan 2019 |     |    
 | Add @daoka to the PMC                               | APPROVED    | @kaiyzen      | 08 Jan 2019 |     | 
 | Create the PMC                                      | APPROVED    | @Jaguar0625, @BloodyRookie, @gimre, @kaiyzen | 1 Jan 2019 |   |
+
+Note: Consultations are not binding. PMC members are allowed to vote more than one option in consultation proposals.
