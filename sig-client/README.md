@@ -22,8 +22,7 @@ This SIG covers projects related to end user client experience such as wallets, 
 
 The following subprojects are owned by sig-client:
 
-* **[nem2-cli](https://github.com/nemtech/nem2-cli)**
-* **[nem2-prototyping-tool](https://github.com/nemtech/nem2-prototyping-tool)**
+* **[symbol-cli](https://github.com/nemtech/symbol-cli)**
 
 ## SIG Goals
 

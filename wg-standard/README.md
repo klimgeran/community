@@ -1,8 +1,10 @@
 # Standardization Working Group
 
-Core devs are too close to the implementation. They have developed the features over a long time, being possible to have implemented some of the features in a different way than the previous ones. 
+Core devs are too close to the implementation.
+They have developed the features over a long time, being possible to have implemented some of the features in a different way than the previous ones. 
 
-Besides, we are different parties collaborating in several projects around the same technology. It is reasonable to think that, at this point, some of the features could be using different variable names at different layers.
+Besides, we are different parties collaborating in several projects around the same technology.
+It is reasonable to think that, at this point, some of the features could be using different variable names at different layers.
 
 This group has been created to **ensure consistency between features and projects before RC**.
 

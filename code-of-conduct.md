@@ -1,7 +1,5 @@
 # NEMtech Code of Conduct v1.0
 
-TODO: add translated links here
-
 ## Contributor and Community Code of Conduct
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone who contributes through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and any other community activities.

@@ -20,9 +20,9 @@ This SIG covers documentation, doc processes, and doc publishing for NEMtech rel
 
 The following subprojects are owned by sig-docs:
 
-* **[nem2-docs](https://github.com/nemtech/nem2-docs)**
+* **[symbol-docs](https://github.com/nemtech/symbol-docs)**
 * **[nemtech.github.io](https://github.com/nemtech/nemtech.github.io)**
-* **[nem2-openapi](https://github.com/nemtech/nem2-openapi)**
+* **[symbol-openapi](https://github.com/nemtech/symbol-openapi)**
 
 ## SIG Goals
 

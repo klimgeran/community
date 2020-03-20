@@ -2,14 +2,10 @@
 
 # Special Interest Groups (SIGs)
 
-TODO: Add any specific SIG communications info/links here
-
-
 # Social Media
 
-* [Twitter] (https://twitter.com/nemtechdev)
+* [Twitter] (https://twitter.com/NEMofficial)
 * [Stack Overflow posting and participation] (https://stackoverflow.com/tags/nem/)
-
 
 # Slack
 
@@ -17,6 +13,7 @@ TODO: Add any specific SIG communications info/links here
 
 # Mailing Lists
 
-NEMtech mailing lists are hosted via Google Groups.  Please join the relevant group list(s) that are of interest to you.
+NEMtech mailing lists are hosted via Google Groups.
+Please join the relevant group list(s) that are of interest to you.
 
 TODO: add links/info here

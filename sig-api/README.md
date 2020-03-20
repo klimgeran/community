@@ -22,11 +22,8 @@ This SIG covers the data format, apis and sdks for nem2.
 
 The following subprojects are owned by sig-api:
 
-* **[nem2-sdk-typescript-javascript](https://github.com/nemtech/nem2-sdk-typescript-javascript)**
-* **[nem2-library-js](https://github.com/nemtech/nem2-library-js)**
-* **[nem2-sdk-java](https://github.com/nemtech/nem2-sdk-java)**
-* **[nem2-sdk-python](https://github.com/nemtech/nem2-sdk-python)**
-* **[nem2-sdk-csharp](https://github.com/nemtech/nem2-sdk-csharp)**
+* **[symbol-sdk-typescript-javascript](https://github.com/nemtech/symbol-sdk-typescript-javascript)**
+* **[symbol-sdk-java](https://github.com/nemtech/symbol-sdk-java)**
 * **[catbuffer](https://github.com/nemtech/catbuffer)**
 
 ## SIG Goals
