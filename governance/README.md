@@ -32,7 +32,7 @@ TODO: more to be flushed out here for forming and end of working groups, idea of
 
 # Project Mangement Committee (PMC)
 
-The PMC is the top level group for managing the project, which was seeded with the original "3 core devs".  The job of the PMC is to be the stewards of the project, community and its software components, irrespective of which commerical or not-for-profit organization they work with or for.  Where as SIGs and Working groups happen more in the open, on community communication channels, the PMC typically operates behind the scenes working with chairs of SIGs and voting on bigger project and community decisions.
+The PMC is the top level group for managing the project, which was seeded with the original "3 core devs".  The job of the PMC is to be the stewards of the project from a tech-focused perspective and its software components, irrespective of which commerical or not-for-profit organization for whom they work. Whereas SIGs and Working groups happen more in the open, on community communication channels, the PMC typically operates behind the scenes working with chairs of SIGs and voting on bigger project decisions.
 
 Current PMC members:
 
@@ -48,4 +48,5 @@ Current PMC members:
 | @44uk         |                      | 6 Feb 2020     |
 | @wayonb       |                      | 6 Feb 2020     |
 | @rg911        |                      | 6 Feb 2020     |
-| @CrackTheCode |                      | 6 Feb 2020     |
+| @crackTheCode |                      | 6 Feb 2020     |
+| @Vektrat      |                      | 20 March 2020  |
