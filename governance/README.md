@@ -36,17 +36,17 @@ The PMC is the top level group for managing the project, which was seeded with t
 
 Current PMC members:
 
-| Member        | Contact              | Joining Date   |
-|---------------|----------------------|----------------|
-| @Jaguar0625   |                      | 1 Jan 2019     |
-| @BloodyRookie |                      | 1 Jan 2019     |
-| @gimre        |                      | 1 Jan 2019     |
-| @kaiyzen      |                      | 1 Jan 2019     |
-| @daoka        |                      | 8 Jan 2019     |
-| @dgarcia360   | david@nem.foundation | 8 Jan 2019     |
-| @evias        |                      | 31 Jan 2020    |
-| @44uk         |                      | 6 Feb 2020     |
-| @wayonb       |                      | 6 Feb 2020     |
-| @rg911        |                      | 6 Feb 2020     |
-| @crackTheCode |                      | 6 Feb 2020     |
-| @Vektrat      |                      | 20 March 2020  |
+| Member        | Joining Date   |
+|---------------|----------------|
+| @Jaguar0625   | 1 Jan 2019     |
+| @BloodyRookie | 1 Jan 2019     |
+| @gimre        | 1 Jan 2019     |
+| @kaiyzen      | 1 Jan 2019     |
+| @daoka        | 8 Jan 2019     |
+| @dgarcia360   | 8 Jan 2019     |
+| @evias        | 31 Jan 2020    |
+| @44uk         | 6 Feb 2020     |
+| @wayonb       | 6 Feb 2020     |
+| @rg911        | 6 Feb 2020     |
+| @crackTheCode | 6 Feb 2020     |
+| @Vektrat      | 20 March 2020  |
