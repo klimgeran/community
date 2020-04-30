@@ -61,13 +61,13 @@ Wallet packages are being worked on mostly by foundation teams. Following packag
 | :-: | :-: | :-: | :-: | :-: |
 | **Accounts** | | | | |
 | User can create new account | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
-| User can create new HD account | :stop_sign: | :white_check_mark: | :white_check_mark: | :stop_sign: |
+| User can create new HD account | :white_check_mark: | :white_check_mark: | :white_check_mark: | :stop_sign: |
 | User can create multiple accounts | :white_check_mark: | :white_check_mark: | :white_check_mark: | :stop_sign: |
 | User can name accounts | :white_check_mark: | :white_check_mark: | :white_check_mark: | :stop_sign: |
 | User can import private key | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
-| User can import pass phrase | :stop_sign: | :white_check_mark: | :white_check_mark: | :stop_sign: |
+| User can import pass phrase | :white_check_mark: | :white_check_mark: | :white_check_mark: | :stop_sign: |
 | User can export private key | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
-| User can export pass phrase | :stop_sign: | :white_check_mark: | :white_check_mark: | :stop_sign: |
+| User can export pass phrase | :white_check_mark: | :white_check_mark: | :white_check_mark: | :stop_sign: |
 | User can link account (harvesting) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :stop_sign: |
 | Private key / Pass phrase storage is secure | :white_check_mark: | :white_check_mark: | :white_check_mark: | :stop_sign: |
 | | | | | | | |
@@ -99,7 +99,7 @@ Wallet packages are being worked on mostly by foundation teams. Following packag
 | User can use aliases for Accounts | :white_check_mark: | :white_check_mark: | :white_check_mark: | :stop_sign: |
 | | | | | | | |
 | **Transactions** | | | | | | |
-| _User can issue Transaction URI*_ | :stop_sign: | :stop_sign: | :stop_sign: | :stop_sign: |
+| _User can issue Transaction URI*_ | :white_check_mark: | :stop_sign: | :stop_sign: | :stop_sign: |
 | User can specify transaction MAX_FEE | :white_check_mark: | :white_check_mark: | :stop_sign: | :stop_sign: |
 | User can issue Transfer without message | :white_check_mark: | :white_check_mark: | :white_check_mark: | :stop_sign: |
 | User can issue Transfer with message | :white_check_mark: | :white_check_mark: | :white_check_mark: | :stop_sign: |
@@ -213,7 +213,6 @@ The Faucet project was released by a community member. The source code for this 
 | ------------- | --------------- |
 | Jul 14 2019   | Initial Draft   |
 | Sep 12 2019   | Second Update   |
-| Oct 25 2019   | CLI update      |
 
 [wallet-desktop]: https://github.com/nemfoundation/nem2-desktop-wallet
 [wallet-mobile]: https://github.com/NemTechCN/nem2-mwallet-CN
