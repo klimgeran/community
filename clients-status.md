@@ -215,7 +215,7 @@ The Faucet project was released by a community member. The source code for this 
 | Sep 12 2019   | Second Update   |
 
 [wallet-desktop]: https://github.com/nemfoundation/nem2-desktop-wallet
-[wallet-mobile]: https://github.com/NemTechCN/nem2-mwallet-CN
+[wallet-mobile]: https://github.com/NemTechCN/nem2-mwallet-CN 
 [wallet-rfp]: https://github.com/hatioin/nem-catapult-wallet.git
 [wallet-hardware]: #
 [explorer]: https://github.com/nemfoundation/nem2-explorer
